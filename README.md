@@ -6,4 +6,6 @@ cuando subes en el vehiculo, el mapa aparece.
 
 Script muy simple pero funcional.
 
+Framework: Standalone
+
 # Creditos By DevRex
